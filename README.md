@@ -1,4 +1,8 @@
 # lancefeig.github.io
+
+## [Velcro Summer 2022 - Self-Assembling Container](https://github.com/lancefeig/velcro-self-assembling-container)
+WIP
+
 ## [Velcro Summer 2022 - SolidWorks Renderings for Testing Lab Fixture Containers](https://github.com/lancefeig/velcro-solidworks-renderings)
 
 ![B.F.C. SolidWorks Rendering](https://github.com/lancefeig/velcro-solidworks-renderings/blob/b3a245dac4ce2b0b3f9e61c82a643f3531177883/bfc1.png?raw=true)
