@@ -4,14 +4,12 @@
 
 ### [GitHub Repositiory](https://github.com/lancefeig/velcro-self-assembling-container) - [README](https://github.com/lancefeig/velcro-self-assembling-container/blob/main/README.md) - [SelfAssemblingContainer.py](https://github.com/lancefeig/velcro-self-assembling-container/blob/main/SelfAssemblingContainer.py)
 
-Creates custom-dimensioned SolidWorks files to reduce time spent modeling 
-acrylic components for Testing Lab fixture storage containers.
+Self-Assembling Container is a Python script that calculates and edits dimensions in SolidWorks files to create containers for Testing Lab equipment at Velcro Research & Development.
 
-Receives numerical input from a Tkinter GUI and modifies SolidWorks part file templates by rewriting 
-externally referenced equation .txt files.
+The goal is to reduce the time spent modeling and designing by cutting out the repettive calculations.
 
-Utilizes OS and Shutil modules to generate an instance folder, containing an acrylic laser cutting
-layout assembly and container build assembly.
+The program receives numerical input from a Tkinter GUI and modifies SolidWorks part file templates by rewriting 
+externally referenced equation .txt files.It utilizes OS and Shutil modules to generate an instance folder, containing an acrylic laser SolidWorks cutting layout assembly and container build assembly.
 
 ## Velcro Summer 2022 - SolidWorks Renderings for Testing Lab Fixture Containers
 
