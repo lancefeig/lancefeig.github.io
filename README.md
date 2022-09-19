@@ -4,7 +4,7 @@
 
 ### [GitHub Repositiory](https://github.com/lancefeig/velcro-self-assembling-container) - [README](https://github.com/lancefeig/velcro-self-assembling-container/blob/main/README.md) - [SelfAssemblingContainer.py](https://github.com/lancefeig/velcro-self-assembling-container/blob/main/SelfAssemblingContainer.py)
 
-Self-Assembling Container is a Python script that calculates and edits dimensions in SolidWorks files to create containers for Testing Lab equipment at Velcro Research & Development.
+Self-Assembling Container is a Python script that calculates and edits dimensions in SolidWorks files to create containers for testing lab equipment at Velcro Research & Development.
 
 The goal is to reduce the time spent modeling and designing by cutting out repetitive calculations.
 
