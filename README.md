@@ -3,7 +3,9 @@
 ## Velcro Summer 2022 - Python Self-Assembling SolidWorks Containers
 
 [GitHub Repositiory](https://github.com/lancefeig/velcro-self-assembling-container)
+
 [Full README](https://github.com/lancefeig/velcro-self-assembling-container/blob/main/README.md)
+
 [SelfAssemblingContainer.py](https://github.com/lancefeig/velcro-self-assembling-container/blob/main/SelfAssemblingContainer.py)
 
 Creates custom-dimensioned SolidWorks files to reduce time spent modeling 
