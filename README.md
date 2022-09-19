@@ -1,4 +1,4 @@
-# lancefeig.github.io
+# Lance Feig's Portfolio
 
 ## Velcro Summer 2022 - Python Self-Assembling SolidWorks Container
 
