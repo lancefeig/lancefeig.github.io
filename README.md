@@ -1,5 +1,20 @@
 # lancefeig.github.io
 
+## Velcro Summer 2022 - Python Self-Assembling SolidWorks Containers
+
+[GitHub Repositiory](https://github.com/lancefeig/velcro-self-assembling-container)
+[Full README](https://github.com/lancefeig/velcro-self-assembling-container/blob/main/README.md)
+[SelfAssemblingContainer.py](https://github.com/lancefeig/velcro-self-assembling-container/blob/main/SelfAssemblingContainer.py)
+
+Creates custom-dimensioned SolidWorks files to reduce time spent modeling 
+acrylic components for Testing Lab fixture storage containers.
+
+Receives numerical input from a Tkinter GUI and modifies SolidWorks part file templates by rewriting 
+externally referenced equation .txt files.
+
+Utilizes OS and Shutil modules to generate an instance folder, containing an acrylic laser cutting
+layout assembly and container build assembly.
+
 ## Velcro Summer 2022 - SolidWorks Renderings for Testing Lab Fixture Containers
 
 ![B.F.C. SolidWorks Rendering](https://github.com/lancefeig/velcro-solidworks-renderings/blob/b3a245dac4ce2b0b3f9e61c82a643f3531177883/bfc1.png?raw=true)
