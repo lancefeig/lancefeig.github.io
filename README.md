@@ -13,6 +13,12 @@ externally referenced equation .txt files. It utilizes OS and Shutil modules to 
 
 ## Velcro Summer 2022 - SolidWorks Renderings for Testing Lab Fixture Containers
 
+During my Summer 2022 internship at Velcro in Manchester, New Hampshire, one of my projects was to design storage containers for different equipment in the R&D testing lab.
+
+Each fixture was a combination of heavy, weirdly shaped, super tiny, or prone to falling over. I designed unique containers to house each fixture from scratch. Container pieces (sides, base, and lid) were fashioned from acrylic sheets, which I cut using the in-house CO2 laser cutter.
+
+All 11 containers were fully modeled in SolidWorks, including 3D printed pieces and necessary hardware.
+
 ![B.F.C. SolidWorks Rendering](https://github.com/lancefeig/velcro-solidworks-renderings/blob/b3a245dac4ce2b0b3f9e61c82a643f3531177883/bfc1.png?raw=true)
 
 ![C.W.C. SolidWorks Rendering](https://github.com/lancefeig/velcro-solidworks-renderings/blob/main/cwc1.png?raw=true)
