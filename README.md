@@ -1,5 +1,3 @@
-# lancefeig.github.io
-
 ## Velcro Summer 2022 - Python Self-Assembling SolidWorks Container
 
 ### [GitHub Repositiory](https://github.com/lancefeig/velcro-self-assembling-container) - [README](https://github.com/lancefeig/velcro-self-assembling-container/blob/main/README.md) - [SelfAssemblingContainer.py](https://github.com/lancefeig/velcro-self-assembling-container/blob/main/SelfAssemblingContainer.py)
